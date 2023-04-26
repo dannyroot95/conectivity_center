@@ -1,0 +1,31 @@
+[
+    {
+      "modality": "0",
+      "name_modality": "Docente",
+      "max_std":6,
+      "max_tch":4
+    },
+
+    {
+      "modality": "1",
+      "name_modality": "Estudiante",
+      "max_std":1,
+      "max_tch":15
+    },
+
+    {
+      "modality": "2",
+      "name_modality": "Voluntariado",
+      "max_std":15,
+      "max_tch":1
+    },
+
+    {
+      "modality": "3",
+      "name_modality": "Actividad de responsabilidad social",
+      "max_std":1,
+      "max_tch":2
+    }
+]
+
+

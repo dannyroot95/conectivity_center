@@ -1,0 +1,61 @@
+[
+    {
+        "id": "0",
+        "carrerName": "DERECHO Y CIENCIAS POLÍTICAS"
+    },
+
+    {
+        "id": "1",
+        "carrerName": "ADMINISTRACIÓN Y NEGOCIOS INTERNACIONALES"
+    },
+
+    {
+        "id": "2",
+        "carrerName": "CONTABILIDAD Y FINANZAS"
+    },
+
+    {
+        "id": "3",
+        "carrerName": "EDUCACIÓN: ESPECIALIDAD INICIAL Y ESPECIAL"
+    },
+
+    {
+        "id": "4",
+        "carrerName": "EDUCACIÓN: ESPECIALIDAD PRIMARIA E INFORMÁTICA"
+    },
+
+    {
+        "id": "5",
+        "carrerName": "EDUCACIÓN: ESPECIALIDAD MATEMÁTICA Y COMPUTACIÓN"
+    },
+
+    {
+        "id": "6",
+        "carrerName": "ENFERMERÍA"
+    },
+
+    {
+        "id": "7",
+        "carrerName": "ECOTURISMO"
+    },
+
+    {
+        "id": "8",
+        "carrerName": "INGENIERÍA FORESTAL Y MEDIO AMBIENTE"
+    },
+
+    {
+        "id": "9",
+        "carrerName": "INGENIERÍA DE SISTEMAS E INFORMÁTICA"
+    },
+
+    {
+        "id": "10",
+        "carrerName": "INGENIERÍA AGROINDUSTRIAL"
+    },
+
+    {
+        "id": "11",
+        "carrerName": "MEDICINA VETERINARIA - ZOOTECNIA"
+    }
+]
